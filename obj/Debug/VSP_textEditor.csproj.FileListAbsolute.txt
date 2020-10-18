@@ -1,0 +1,10 @@
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\bin\Debug\VSP_textEditor.exe.config
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\bin\Debug\VSP_textEditor.exe
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\bin\Debug\VSP_textEditor.pdb
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\obj\Debug\VSP_textEditor.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\obj\Debug\VSP_textEditor.Form1.resources
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\obj\Debug\VSP_textEditor.Properties.Resources.resources
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\obj\Debug\VSP_textEditor.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\obj\Debug\VSP_textEditor.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\obj\Debug\VSP_textEditor.exe
+C:\Users\maria\Desktop\VSP_textEditor\VSP_textEditor\obj\Debug\VSP_textEditor.pdb
